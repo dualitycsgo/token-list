@@ -78920,6 +78920,20 @@
         "meme-token",
         "idiot-in-chief-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AcyTybdT75MhEauw1TJvRnpQjVKx6MMDyiU6FbSNKBec",
+      "symbol": "SCT",
+      "name": "Society Token v2",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/societytokenv2/societytokenv2/main/societylogo%20(1).png",
+      "tags": [
+        "utility"
+      ],
+      "extensions": {
+        "website": "https://www.viewsolana.com/nft"
+      }
     }
   ],
   "version": {
